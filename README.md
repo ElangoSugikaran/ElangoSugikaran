@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Elango%20Sugikaran&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Full%20Stack&descAlignY=62&descSize=20" width="100%" alt="Elango Sugikaran banner" />
 
 <a href="https://github.com/ElangoSugikaran">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2C9BF0&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Elango+Sugikaran;Full+Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Building+live+platforms+with+clean+APIs+and+UIs;Co-Founder+%40+Triyon+%7C+Based+in+Colombo%2C+Sri+Lanka" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2C9BF0&center=true&vCenter=true&width=900&height=40&lines=Hi+%F0%9F%91%8B+I%27m+Elango+Sugikaran;Full+Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;TypeScript+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Building+live+platforms+with+clean+APIs+and+UIs;Co-Founder+%40+Triyon+%7C+Colombo%2C+Sri+Lanka" alt="Typing animation" />
 </a>
 
 <br/>
